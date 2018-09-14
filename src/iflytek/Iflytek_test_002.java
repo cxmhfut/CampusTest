@@ -2,7 +2,7 @@ package iflytek;
 
 import java.util.Scanner;
 
-public class iflytek_test_002 {
+public class Iflytek_test_002 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
