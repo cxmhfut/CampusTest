@@ -24,6 +24,6 @@ public class Nubia_001 {
             return h;
         }
 
-        return h+2*h-h/(Math.pow(2,m-2));
+        return h + 2 * h - h / (Math.pow(2, m - 2));
     }
 }
